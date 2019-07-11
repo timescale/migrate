@@ -26,7 +26,7 @@ require (
 	github.com/konsorten/go-windows-terminal-sequences v1.0.2 // indirect
 	github.com/kr/pretty v0.1.0 // indirect
 	github.com/kshvakov/clickhouse v1.3.5
-	github.com/lib/pq v1.0.0
+	github.com/lib/pq v1.1.1
 	github.com/mattn/go-sqlite3 v1.10.0
 	github.com/mongodb/mongo-go-driver v0.3.0
 	github.com/nakagami/firebirdsql v0.0.0-20190310045651-3c02a58cfed8
